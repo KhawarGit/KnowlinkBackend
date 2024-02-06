@@ -29,8 +29,8 @@ This backend of a dynamic blogging website, using Node.js and Express,crafted by
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/KhawarGit/db-connecting-first-time.git
-   cd db-connecting-first-time
+   git clone https://github.com/KhawarGit/KnowlinkBackend.git
+   cd KnowlinkBackend/BackEnd
 2. Install dependencies:
    ```bash
    npm install
