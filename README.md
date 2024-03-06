@@ -39,4 +39,5 @@ This backend of a dynamic blogging website, using Node.js and Express,crafted by
    npm start
 4. Explore the powerful Backend Capabilities of the Blogging website.
 
-   
+<hr />
+Khawar Khan (www.linkedin.com/in/khawar-khan)
